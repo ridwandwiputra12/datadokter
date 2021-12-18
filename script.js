@@ -1,8 +1,8 @@
 var data = [
-    "Budisudarsono",
-    "Bambang",
-    "Sukiman",
-    "Pandu"
+    "Mulyadi",
+    "Agus",
+    "Budi",
+    "Andre"
 ];
 
 
